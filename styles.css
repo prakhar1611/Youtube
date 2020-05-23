@@ -1,0 +1,11 @@
+h1
+{
+  text-align: center;
+}
+.row
+{
+  position: absolute;
+  padding-right: 5%;
+  padding-left: 7%;
+  padding-top: 3%;
+}
